@@ -24,4 +24,5 @@
         "#@first_name #@last_name"
       end
     end
-
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

@@ -19,3 +19,5 @@
         end
       end
     end
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

@@ -27,3 +27,5 @@
 
     CircleHole.new
       SquareToCircle.new().adapt(Square.new)
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

@@ -14,7 +14,7 @@
     @@@ ruby
     class Recipe
       def do_the_meal
-        turn_on_fire & cook & serve
+        turn_on_fire; cook; serve
       end
     end
 
@@ -29,4 +29,5 @@
         #put_on_dishes
       end
     end
-
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

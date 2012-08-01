@@ -6,7 +6,7 @@
     class DelayedJobRunner
       def run
         while queue.has_tasks
-          task = queue.get_first.execute
+          task = queue.get_first
           case task.class
           when Downloader
             task.download
@@ -33,3 +33,5 @@
         end
       end
     end
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

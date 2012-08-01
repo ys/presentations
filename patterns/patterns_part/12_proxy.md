@@ -22,4 +22,6 @@
       end
     end
 
-    bankEmployee.deposit 50
+    bank_employee.deposit 50
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

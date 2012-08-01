@@ -18,3 +18,5 @@
     end
 
     DbConnectionPool.instance
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

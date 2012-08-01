@@ -23,3 +23,5 @@
         access_list.group(:month)
       end
     end
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

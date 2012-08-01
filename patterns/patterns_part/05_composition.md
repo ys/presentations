@@ -10,7 +10,7 @@
       end
     end
     time_spent = project.time_spent 
-                   + tasks.time_spent
+                   + tasks.all.time_spent
 !SLIDE small
 # Composition pattern
 
@@ -33,3 +33,5 @@
     class Task; def time_spent; 666 end end
 
     time_spent = project.time_spent
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>

@@ -1,3 +1,3 @@
 !SLIDE
 # Thanks guys
-## @yann_ck
+## [@DomLochet](http://twitter.com/DomLochet) - [@yann_ck](http://twitter.com/yann_ck)

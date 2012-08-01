@@ -23,8 +23,10 @@
       end
     end
 
-    class EmailUser
+    class FacebookUser
       def send_to_feed(contents)
-        # no-op.
+        facebook_client.publish(contents)
       end
     end
+!SLIDE
+<img src='http://blog.yannick.io/images/ruby.png'/>
